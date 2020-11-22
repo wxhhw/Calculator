@@ -3,10 +3,10 @@
 using namespace std;  
 
 int main(){
-    int a,b,c;
+    int a, b, c;
     cout << "请输入a,b,c\n";
     cin >> a >> b >> c;
-    cout << "abc的乘积为："<<func(a,b,c);
+    cout << "abc的积为：" << func1(a, b, c);
 
     int d, e, f;
     cout << "请输入d,e,f\n";
