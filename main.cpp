@@ -7,5 +7,10 @@ int main(){
     cout << "请输入a,b,c\n";
     cin >> a >> b >> c;
     cout << "abc的乘积为："<<func(a,b,c);
+
+    int d, e, f;
+    cout << "请输入d,e,f\n";
+    cin >> d >> e >> f;
+    cout << "def的和为：" << func2(a, b, c);
     return 0;
 }
