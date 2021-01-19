@@ -13,8 +13,8 @@ int main(){
     cin >> d >> e >> f;
     cout << "def的和为：" << add(a, b, c);
 	
-	int x;
-	x+=1;
-	cout>>x;
+	int y;
+	y+=1;
+	cout>>y;
     return 0;
 }
