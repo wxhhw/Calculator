@@ -12,5 +12,9 @@ int main(){
     cout << "请输入d,e,f\n";
     cin >> d >> e >> f;
     cout << "def的和为：" << add(a, b, c);
+	
+	int x;
+	x+=1;
+	cout>>x;
     return 0;
 }
