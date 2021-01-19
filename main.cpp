@@ -20,14 +20,8 @@ int main(){
     cin >> d >> e >> f;
     cout << "def的和为：" << add(a, b, c);
 	
-<<<<<<< HEAD
-	int y;
-	y+=1;
-	cout>>y;
-=======
 	int z;
 	z+=1;
 	cout>>z;
->>>>>>> hhw
     return 0;
 }
