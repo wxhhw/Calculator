@@ -2,11 +2,18 @@
 #include "def.h" 
 using namespace std;  
 
+int xzh(){
+       return 1;
+}
+
 int main(){
     int a, b, c;
     cout << "请输入a,b,c\n";
     cin >> a >> b >> c;
     cout << "abc的积为：" << mul(a, b, c);
+    int x;
+    x--;
+    cout << xzh();
 
     int d, e, f;
     cout << "请输入d,e,f\n";
